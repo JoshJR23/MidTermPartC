@@ -12,6 +12,8 @@ package midtermexam_versiona_extensioncode;
  * Students are reminded to add themselves as modifiers when editing the
  * code.
  * @author dancye, 2019
+ * fundamentals of software design
+ * today is feb 22
  */
 public class UserProfile 
 {
